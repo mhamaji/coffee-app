@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This readme should be short and sweet guidance on how to run this project locally.
 
-Things you may want to cover:
+## Stuff to install
+- Install Postgres
+- Install Ruby
+- Install Rails
 
-* Ruby version
+## Stuff to run
+- "bundle install"
+- "rails db:create"
+- "rails db:migrate"
+- "rails server"
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Now you're ready to work! :)
